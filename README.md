@@ -17,6 +17,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Redder](https://github.com/redder123)
 - [Alir3za :)](https://github.com/Alir3zaKazemi)
 - [M2N76 🐺](https://github.com/M2N76)
+- [Mahdi Faraji:gem:](https://github.com/mahdifj)
 - [Amir Hossein Kamandlou 🐘🐳](https://github.com/Kamandlou)
 - [Amir Salehi](https://github.com/amiryxe)
 - [Ali Mohammadnezhad 😍🌹](https://github.com/AliMohammadnezhad)
